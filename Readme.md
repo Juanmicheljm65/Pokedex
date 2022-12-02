@@ -1,0 +1,1 @@
+Olá, esse projeto é uma pokedex que criei e adaptei pra aplicar meus conhecimentos adquiridos no curso de javascript da DIO.
